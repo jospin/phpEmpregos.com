@@ -12,6 +12,7 @@ site phpEmpregos.com
 * [Vinicius Cainelli](http://github.com/vicainelli) - Brasil
 * [Diego França](https://github.com/dtgfranca) - Brasil
 * [Thomás Piedade](https://github.com/thomaspiedade) - Brasil
+* [Jonil Voiski](https://github.com/voiskibrasil) - Brasil
 
 # CONVITE
 
