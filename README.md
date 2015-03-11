@@ -7,7 +7,11 @@ site phpEmpregos.com
 * [Eder Taveira](http://github.com/edertaveira) - Brasil
 * [Marcelo Everson](http://github.com/marceloeverson) - Brasil
 * [Anísio Neto](http://github.com/netohunter) - Brasil
-
+* [David Lima](http://github.com/davelima) - Brasil
+* [Vanildo Souto Mangueira](http://github.com/vanildosouto) - Brasil
+* [Vinicius Cainelli](http://github.com/vicainelli) - Brasil
+* [Diego França](https://github.com/dtgfranca) - Brasil
+* [Thomás Piedade](https://github.com/thomaspiedade) - Brasil
 
 # CONVITE
 
@@ -35,6 +39,10 @@ O site estará utilizando as seguintes tecnologias:
 - Twitter Bootstrap
 - AWS (amazon web services)
 
+Deverão ser utilizados os seguintes padrões:
+- [PSR-1](http://www.php-fig.org/psr/psr-1/)
+- [PSR-2](http://www.php-fig.org/psr/psr-2/)
+
 Novas tecnologias poderão ser introduzidas, assim como as que listei poderão ser alteradas. Tudo será decidido entre os envolvidos.
 
 Tenho algumas idéias:
@@ -55,3 +63,11 @@ Interessados passem essa idéia adiante, de um fork no projeto e submeta um pull
 Ainda que você seja iniciante e não tenha nenhum conhecimento em nenhuma das tecnologias citadas, você é bem vindo e terá uma grande oportunidade de aprender.
 
 Mathias Grimm
+
+# Início das Atividades
+O planejamento terá início dentro de alguns dias. Começaremos um projeto do "0" onde todo codigo fonte atual será guardado apenas para dados históricos :)
+
+Atualmente utilize os git issues criando novos e/ou resolvendo algum existente
+
+Não sei ainda como será a primeira reunião. Talvez hangouts funcione, talvez IRC. Já criei um canal no freenode `#phpempregos` no qual podemos ir conversando
+
