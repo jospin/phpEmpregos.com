@@ -39,6 +39,10 @@ O site estará utilizando as seguintes tecnologias:
 - Twitter Bootstrap
 - AWS (amazon web services)
 
+Deverão ser utilizados os seguintes padrões:
+- [PSR-1](http://www.php-fig.org/psr/psr-1/)
+- [PSR-2](http://www.php-fig.org/psr/psr-2/)
+
 Novas tecnologias poderão ser introduzidas, assim como as que listei poderão ser alteradas. Tudo será decidido entre os envolvidos.
 
 Tenho algumas idéias:
