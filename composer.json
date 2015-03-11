@@ -5,7 +5,11 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
-		"laravel/framework": "5.0.*"
+		"laravel/framework": "5.0.*",
+        "mathiasgrimm/laravel-dot-env-gen": "dev-master",
+        "mathiasgrimm/x": "dev-master",
+        "mathiasgrimm/arraypath": "dev-master",
+        "guzzlehttp/guzzle": "~4.0"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",
