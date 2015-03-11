@@ -13,6 +13,7 @@ site phpEmpregos.com
 * [Diego França](https://github.com/dtgfranca) - Brasil
 * [Thomás Piedade](https://github.com/thomaspiedade) - Brasil
 * [Jonil Voiski](https://github.com/voiskibrasil) - Brasil
+* [Milton Cesar Viziak](https://github.com/miltonviziak) - Brasil
 
 # CONVITE
 
