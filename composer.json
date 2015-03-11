@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "phpEmpregos/phpEmpregos.com",
+    "description": "Vagas PHP",
+    "keywords": ["vagas", "empregos", "php"],
     "license": "MIT",
     "type": "project",
     "require": {
