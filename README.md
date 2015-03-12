@@ -11,7 +11,7 @@ site [phpEmpregos.com](https://phpEmpregos.com)
 - `IRC` no freenode `#phpempregos`
 
 # CONVITE
-10 de Marços de 2015,
+10 de Março de 2015,
 
 Meu nome é Mathias Grimm e sou proprietário do site phpEmpregos.com desde sua fundação em 2009.
 Essa é uma carta convite aberta a comunidade php brasileira, portuguesa assim como qualquer outra comunidade php
