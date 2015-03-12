@@ -1,19 +1,18 @@
 # phpEmpregos.com
-site phpEmpregos.com
+site [phpEmpregos.com](https://phpEmpregos.com)
 
-### Contributors
-* [Mathias Grimm](https://github.com/mathiasgrimm) - Brasil
-* [Hudson Dunice](http://github.com/dunice) - Brasil
-* [Eder Taveira](http://github.com/edertaveira) - Brasil
-* [Marcelo Everson](http://github.com/marceloeverson) - Brasil
-* [Anísio Neto](http://github.com/netohunter) - Brasil
-* [David Lima](http://github.com/davelima) - Brasil
-* [Vanildo Souto Mangueira](http://github.com/vanildosouto) - Brasil
-* [Vinicius Cainelli](http://github.com/vicainelli) - Brasil
-* [Diego França](https://github.com/dtgfranca) - Brasil
-* [Thomás Piedade](https://github.com/thomaspiedade) - Brasil
+# Início das Atividades
+- Atualmente utilize os git issues criando novos e/ou resolvendo algum existente. 
+- Visite o site atual https://phpEmpregos.com e pense em algumas melhorias/sugestões e crie um git issue para discutirmos
+- Visite outros sites de empregos, freelancing etc...
+- Estude Laravel
+- Estude Git
+
+# Comunicação/Chat
+- `IRC` no freenode `#phpempregos`
 
 # CONVITE
+10 de Março de 2015,
 
 Meu nome é Mathias Grimm e sou proprietário do site phpEmpregos.com desde sua fundação em 2009.
 Essa é uma carta convite aberta a comunidade php brasileira, portuguesa assim como qualquer outra comunidade php
@@ -43,7 +42,8 @@ Deverão ser utilizados os seguintes padrões:
 - [PSR-1](http://www.php-fig.org/psr/psr-1/)
 - [PSR-2](http://www.php-fig.org/psr/psr-2/)
 
-Novas tecnologias poderão ser introduzidas, assim como as que listei poderão ser alteradas. Tudo será decidido entre os envolvidos.
+Novas tecnologias poderão ser introduzidas, assim como as que listei poderão ser alteradas. 
+Tudo será decidido entre os envolvidos com exceção do framework será o Laravel 5, ao menos nessa fase inicial, pois tenho mais experiência, e que no futuro também poderá mudar.
 
 Tenho algumas idéias:
 - Restruturação do layout (urgente)
@@ -54,7 +54,7 @@ Tenho algumas idéias:
 - Adicionar enquetes de maneira a conhecer melhor nossa comunidade
 - Listar todos sites/grupos etc da comunidade php.
 
-Acima de tudo, a idéia é sempre continuar extremamente simples e direto ao ponto.
+Acima de tudo, independentemente das tecnologias utilizadas, a idéia é sempre continuar extremamente simples e direto ao ponto, proporcionando a melhor experência aos usuários.
 
 Todos são bem-vindos e tem espaço para todo mundo.
 
@@ -64,10 +64,28 @@ Ainda que você seja iniciante e não tenha nenhum conhecimento em nenhuma das t
 
 Mathias Grimm
 
-# Início das Atividades
-O planejamento terá início dentro de alguns dias. Começaremos um projeto do "0" onde todo codigo fonte atual será guardado apenas para dados históricos :)
 
-Atualmente utilize os git issues criando novos e/ou resolvendo algum existente
+# Ambiente de desenvolvimento
+- [Homestead](http://laravel.com/docs/5.0/homestead) - Tem tudo que precisamos. É uma maquina virtual VirtualBox/VMware + vagrant que já vem com tudo instalado, desde php ao postgres.
 
-Não sei ainda como será a primeira reunião. Talvez hangouts funcione, talvez IRC. Já criei um canal no freenode `#phpempregos` no qual podemos ir conversando
+# Material de referência
+- [Lavavel](http://laravel.com) - Site oficial do laravel
+- [Laracasts] (https://laracasts.com) - Video aulas sobre laravel. Recomendo começar com a [Laravel 5 Fundamentals](https://laracasts.com/series/laravel-5-fundamentals) que inclusive explica a respeito do Homestead a da instalação
+- [Laravel News](https://laravel-news.com) - Novidades do mundo Laravel
+- [Laravel Brasil](http://www.laravel.com.br/) - Novidades/Artigos do mundo Laravel
 
+
+# Contributors
+* [Mathias Grimm](https://github.com/mathiasgrimm) - Brasil
+* [Hudson Dunice](http://github.com/dunice) - Brasil
+* [Eder Taveira](http://github.com/edertaveira) - Brasil
+* [Marcelo Everson](http://github.com/marceloeverson) - Brasil
+* [Anísio Neto](http://github.com/netohunter) - Brasil
+* [David Lima](http://github.com/davelima) - Brasil
+* [Vanildo Souto Mangueira](http://github.com/vanildosouto) - Brasil
+* [Vinicius Cainelli](http://github.com/vicainelli) - Brasil
+* [Diego França](https://github.com/dtgfranca) - Brasil
+* [Thomás Piedade](https://github.com/thomaspiedade) - Brasil
+* [Jonil Voiski](https://github.com/voiskibrasil) - Brasil
+* [Milton Cesar Viziak](https://github.com/miltonviziak) - Brasil
+* [Luiz Reginaldo](https://github.com/luizreginaldo) - Brasil

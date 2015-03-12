@@ -20,7 +20,8 @@ class WelcomeController extends Controller {
 	 */
 	public function __construct()
 	{
-		$this->middleware('guest');
+//        \ap::get('a', []);
+        $this->middleware('guest');
 	}
 
 	/**
