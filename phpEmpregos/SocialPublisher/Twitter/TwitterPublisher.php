@@ -1,4 +1,4 @@
-<?php namespace phpEmpregos\SocialPublisher\Facebook;
+<?php namespace phpEmpregos\SocialPublisher\Twitter;
 
 use phpEmpregos\SocialPublisher\SocialPublisher;
 
