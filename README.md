@@ -89,3 +89,4 @@ Mathias Grimm
 * [Jonil Voiski](https://github.com/voiskibrasil) - Brasil
 * [Milton Cesar Viziak](https://github.com/miltonviziak) - Brasil
 * [Luiz Reginaldo](https://github.com/luizreginaldo) - Brasil
+* [Natanael Colacino](https://github.com/natanaelphp) - Brasil
