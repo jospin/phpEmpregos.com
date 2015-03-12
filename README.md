@@ -79,3 +79,5 @@ Atualmente utilize os git issues criando novos e/ou resolvendo algum existente
 # Material de referência
 - [Lavavel](http://laravel.com) - Site oficial do laravel
 - [Laracasts] (https://laracasts.com) - Video aulas sobre laravel. Recomendo começar com a [Laravel 5 Fundamentals](https://laracasts.com/series/laravel-5-fundamentals) que inclusive explica a respeito do Homestead a da instalação
+- [Laravel News](https://laravel-news.com) - Novidades do mundo Laravel
+- [Laravel Brasil](http://www.laravel.com.br/) - Novidades/Artigos do mundo Laravel
