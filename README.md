@@ -6,6 +6,7 @@ site [phpEmpregos.com](https://phpEmpregos.com)
 - Visite o site atual https://phpEmpregos.com e pense em algumas melhorias/sugestões e crie um git issue para discutirmos
 - Visite outros sites de empregos, freelancing etc...
 - Estude Laravel
+- Estude Git
 
 # Comunicação/Chat
 - `IRC` no freenode `#phpempregos`
