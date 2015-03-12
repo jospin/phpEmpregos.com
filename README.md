@@ -47,7 +47,7 @@ Deverão ser utilizados os seguintes padrões:
 - [PSR-2](http://www.php-fig.org/psr/psr-2/)
 
 Novas tecnologias poderão ser introduzidas, assim como as que listei poderão ser alteradas. 
-Tudo será decidido entre os envolvidos com exceção do framework que iremos utilizar que será o Laravel 5, o qual tenho mais experiência, e que no futuro também poderá mudar.
+Tudo será decidido entre os envolvidos com exceção do framework será o Laravel 5, ao menos nessa fase inicial, pois tenho mais experiência, e que no futuro também poderá mudar.
 
 Tenho algumas idéias:
 - Restruturação do layout (urgente)
