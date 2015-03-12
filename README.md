@@ -73,3 +73,9 @@ Atualmente utilize os git issues criando novos e/ou resolvendo algum existente
 
 `IRC` no freenode `#phpempregos`
 
+# Ambiente de desenvolvimento
+- [Homestead](http://laravel.com/docs/5.0/homestead) - Tem tudo que precisamos. É uma maquina virtual VirtualBox/VMware + vagrant que já vem com tudo instalado, desde php ao postgres.
+
+# Material de referência
+- [Lavavel](http://laravel.com) - Site oficial do laravel
+- [Laracasts] (https://laracasts.com) - Video aulas sobre laravel. Recomendo começar com a [Laravel 5 Fundamentals](https://laracasts.com/series/laravel-5-fundamentals) que inclusive explica a respeito do Homestead a da instalação
