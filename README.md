@@ -2,7 +2,10 @@
 site [phpEmpregos.com](https://phpEmpregos.com)
 
 # Início das Atividades
-Atualmente utilize os git issues criando novos e/ou resolvendo algum existente
+- Atualmente utilize os git issues criando novos e/ou resolvendo algum existente. 
+- Visite o site atual https://phpEmpregos.com e pense em algumas melhorias/sugestões e crie um git issue para discutirmos
+- Visite outros sites de empregos, freelancing etc...
+- Estude Laravel
 
 # Comunicação/Chat
 - `IRC` no freenode `#phpempregos`
