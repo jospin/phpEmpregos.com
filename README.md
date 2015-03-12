@@ -1,20 +1,11 @@
 # phpEmpregos.com
-site phpEmpregos.com
+site [phpEmpregos.com](https://phpEmpregos.com)
 
-### Contributors
-* [Mathias Grimm](https://github.com/mathiasgrimm) - Brasil
-* [Hudson Dunice](http://github.com/dunice) - Brasil
-* [Eder Taveira](http://github.com/edertaveira) - Brasil
-* [Marcelo Everson](http://github.com/marceloeverson) - Brasil
-* [Anísio Neto](http://github.com/netohunter) - Brasil
-* [David Lima](http://github.com/davelima) - Brasil
-* [Vanildo Souto Mangueira](http://github.com/vanildosouto) - Brasil
-* [Vinicius Cainelli](http://github.com/vicainelli) - Brasil
-* [Diego França](https://github.com/dtgfranca) - Brasil
-* [Thomás Piedade](https://github.com/thomaspiedade) - Brasil
-* [Jonil Voiski](https://github.com/voiskibrasil) - Brasil
-* [Milton Cesar Viziak](https://github.com/miltonviziak) - Brasil
-* [Luiz Reginaldo](https://github.com/luizreginaldo) - Brasil
+# Início das Atividades
+Atualmente utilize os git issues criando novos e/ou resolvendo algum existente
+
+# Comunicação/Chat
+- `IRC` no freenode `#phpempregos`
 
 # CONVITE
 
@@ -68,10 +59,6 @@ Ainda que você seja iniciante e não tenha nenhum conhecimento em nenhuma das t
 
 Mathias Grimm
 
-# Início das Atividades
-Atualmente utilize os git issues criando novos e/ou resolvendo algum existente
-
-`IRC` no freenode `#phpempregos`
 
 # Ambiente de desenvolvimento
 - [Homestead](http://laravel.com/docs/5.0/homestead) - Tem tudo que precisamos. É uma maquina virtual VirtualBox/VMware + vagrant que já vem com tudo instalado, desde php ao postgres.
@@ -81,3 +68,19 @@ Atualmente utilize os git issues criando novos e/ou resolvendo algum existente
 - [Laracasts] (https://laracasts.com) - Video aulas sobre laravel. Recomendo começar com a [Laravel 5 Fundamentals](https://laracasts.com/series/laravel-5-fundamentals) que inclusive explica a respeito do Homestead a da instalação
 - [Laravel News](https://laravel-news.com) - Novidades do mundo Laravel
 - [Laravel Brasil](http://www.laravel.com.br/) - Novidades/Artigos do mundo Laravel
+
+
+# Contributors
+* [Mathias Grimm](https://github.com/mathiasgrimm) - Brasil
+* [Hudson Dunice](http://github.com/dunice) - Brasil
+* [Eder Taveira](http://github.com/edertaveira) - Brasil
+* [Marcelo Everson](http://github.com/marceloeverson) - Brasil
+* [Anísio Neto](http://github.com/netohunter) - Brasil
+* [David Lima](http://github.com/davelima) - Brasil
+* [Vanildo Souto Mangueira](http://github.com/vanildosouto) - Brasil
+* [Vinicius Cainelli](http://github.com/vicainelli) - Brasil
+* [Diego França](https://github.com/dtgfranca) - Brasil
+* [Thomás Piedade](https://github.com/thomaspiedade) - Brasil
+* [Jonil Voiski](https://github.com/voiskibrasil) - Brasil
+* [Milton Cesar Viziak](https://github.com/miltonviziak) - Brasil
+* [Luiz Reginaldo](https://github.com/luizreginaldo) - Brasil
