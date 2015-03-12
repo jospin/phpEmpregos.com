@@ -46,7 +46,8 @@ Deverão ser utilizados os seguintes padrões:
 - [PSR-1](http://www.php-fig.org/psr/psr-1/)
 - [PSR-2](http://www.php-fig.org/psr/psr-2/)
 
-Novas tecnologias poderão ser introduzidas, assim como as que listei poderão ser alteradas. Tudo será decidido entre os envolvidos.
+Novas tecnologias poderão ser introduzidas, assim como as que listei poderão ser alteradas. 
+Tudo será decidido entre os envolvidos com exceção do framework que iremos utilizar que será o Laravel 5, o qual tenho mais experiência, e que no futuro também poderá mudar.
 
 Tenho algumas idéias:
 - Restruturação do layout (urgente)
@@ -57,7 +58,7 @@ Tenho algumas idéias:
 - Adicionar enquetes de maneira a conhecer melhor nossa comunidade
 - Listar todos sites/grupos etc da comunidade php.
 
-Acima de tudo, a idéia é sempre continuar extremamente simples e direto ao ponto.
+Acima de tudo, independentemente das tecnologias utilizadas, a idéia é sempre continuar extremamente simples e direto ao ponto, proporcionando a melhor experência aos usuários.
 
 Todos são bem-vindos e tem espaço para todo mundo.
 
