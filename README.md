@@ -68,9 +68,7 @@ Ainda que você seja iniciante e não tenha nenhum conhecimento em nenhuma das t
 Mathias Grimm
 
 # Início das Atividades
-O planejamento terá início dentro de alguns dias. Começaremos um projeto do "0" onde todo codigo fonte atual será guardado apenas para dados históricos :)
-
 Atualmente utilize os git issues criando novos e/ou resolvendo algum existente
 
-Não sei ainda como será a primeira reunião. Talvez hangouts funcione, talvez IRC. Já criei um canal no freenode `#phpempregos` no qual podemos ir conversando
+`IRC` no freenode `#phpempregos`
 
