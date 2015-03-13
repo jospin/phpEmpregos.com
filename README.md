@@ -90,3 +90,4 @@ Mathias Grimm
 * [Milton Cesar Viziak](https://github.com/miltonviziak) - Brasil
 * [Luiz Reginaldo](https://github.com/luizreginaldo) - Brasil
 * [Natanael Colacino](https://github.com/natanaelphp) - Brasil
+* [Jéssica Nascimento](https://github.com/Jessica7) - Brasil
