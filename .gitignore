@@ -3,3 +3,4 @@
 .env
 .env.gen
 .idea
+_ide_helper.php

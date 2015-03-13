@@ -147,6 +147,8 @@ return [
 
         'MathiasGrimm\LaravelDotEnvGen\DotEnvGenServiceProvider',
 
+        'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
+
 	],
 
 	/*
