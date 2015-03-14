@@ -1,4 +1,7 @@
 # phpEmpregos.com
+
+[![Build Status](https://travis-ci.org/phpEmpregos/phpEmpregos.com.svg?branch=master)](https://travis-ci.org/phpEmpregos/phpEmpregos.com)
+
 site [phpEmpregos.com](https://phpEmpregos.com)
 
 # Início das Atividades
