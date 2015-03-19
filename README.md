@@ -5,7 +5,7 @@
 site [phpEmpregos.com](https://phpEmpregos.com)
 
 # Início das Atividades
-- Atualmente utilize os git issues criando novos e/ou resolvendo algum existente. 
+- Atualmente utilize os git issues criando novos e/ou resolvendo algum existente.
 - Visite o site atual https://phpEmpregos.com e pense em algumas melhorias/sugestões e crie um git issue para discutirmos
 - Visite outros sites de empregos, freelancing etc...
 - Estude Laravel
@@ -45,7 +45,7 @@ Deverão ser utilizados os seguintes padrões:
 - [PSR-1](http://www.php-fig.org/psr/psr-1/)
 - [PSR-2](http://www.php-fig.org/psr/psr-2/)
 
-Novas tecnologias poderão ser introduzidas, assim como as que listei poderão ser alteradas. 
+Novas tecnologias poderão ser introduzidas, assim como as que listei poderão ser alteradas.
 Tudo será decidido entre os envolvidos com exceção do framework será o Laravel 5, ao menos nessa fase inicial, pois tenho mais experiência, e que no futuro também poderá mudar.
 
 Tenho algumas idéias:
@@ -94,3 +94,4 @@ Mathias Grimm
 * [Luiz Reginaldo](https://github.com/luizreginaldo) - Brasil
 * [Natanael Colacino](https://github.com/natanaelphp) - Brasil
 * [Jéssica Nascimento](https://github.com/Jessica7) - Brasil
+* [Lucien Jospin](https://github.com/jospin) - Brasil
